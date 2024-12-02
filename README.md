@@ -54,6 +54,35 @@
 ## Deployment Methods
 ---
 
+// import { create, Whatsapp } from 'TSUKUYOMI-MD';
+const venom = require('TSUKUYOMI-MD');
+
+venom
+  .create({
+    session: 'session-name' //name of session
+  })
+  .then((client) => start(client))
+  .catch((erro) => {
+    console.log(erro);
+  });
+
+function start(client) {
+  client.onMessage((message) => {
+    if (message.body === 'Hi' && message.isGroupMsg === false) {
+      client
+        .sendText(message.from, 'Welcome Venom 🕷')
+        .then((result) => {
+          console.log('Result: ', result); //return object success
+        })
+        .catch((erro) => {
+          console.error('Error when sending: ', error); //return object error
+        });
+    }
+  });
+}
+
+
+
 1. ***Get [`SESSION ID`](https://Orangefri-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be).***
