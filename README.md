@@ -25,14 +25,14 @@
 <a href="https://github.com/Orangefri/TSUKUYOMI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Orangefri/TSUKUYOMI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/Orangefri/TSUKUYOMI-MD/"><img title="Size" src="https://github.com/Orangefri/TSUKUYOMI-MD?style=flat-square&color=green"></a>
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICEhttps://github.com/Orangefri/TSUKUYOMI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Orangefri/TSUKUYOMI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
    
 <p align="center">
 
-  <a aria-label="Join our chats" href="https://t.me/GlobalBotInc" target="_blank">
+  <a aria-label="Join our chats" href="https://t.me/TSUKUYOMI_SUPPORT" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
  
@@ -40,12 +40,12 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{TSUKUYOMI-XMD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{TSUKUYOMI-MD}/count.svg" alt="MULTI DEVICE BOT:: Visitor's Count" old_src="https://profile-counter.glitch.me/{MULTI DEVICE BOT}/count.svg" /></p>
 
 
   <p align="center"> Meet 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. TSUKUYOMI_x whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
-  <a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/fork"><img title="𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫" src="https://img.shields.io/badge/FORK-𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫-h?color=blue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Orangefri/TSUKUYOMI-MD/fork"><img title="𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫" src="https://img.shields.io/badge/FORK-𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
 
  
@@ -57,7 +57,7 @@
 1. ***Get [`SESSION ID`](https://tsukuyomi-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be).***
-3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE)***
+3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Orangefri/TSUKUYOMI-MD)***
    
 4.  #### DEPLOY IN HEROKU 
 
@@ -66,7 +66,7 @@
 --------
 5.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/Orangefri/𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 6.  #### DEPLOY IN KOYEB
