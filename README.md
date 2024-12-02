@@ -147,7 +147,7 @@
       PREFIX = .
       WARN_COUNT = 3
       DISABLE_PM = "false"
-      THEME= "BLOOD RED"
+      THEME= "ITACHI"
       MODE = "public"
       ANTILINK_VALUES = "https://,chat.whatsapp.com"
       
