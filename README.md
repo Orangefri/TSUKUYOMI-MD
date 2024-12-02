@@ -229,13 +229,11 @@ npm start
 --------
 
 
-### CONTRIBUTORS
-<a href="https://files.catbox.moe/iieoes.jpg"><img src="https://github.com/LordeVraps".png" width="200" height="200" alt="LordeVraps"/></a>
+### TOP CONTRIBUTORS
 
+# HOKAGE : [@5PHESIHLE](https://github.com/Orangefri)#
 
-<a href="https://files.catbox.moe/iieoes.jpg
-"><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
-
+# KAZEKAGE : [@TRISTAN](https://github.com/Tristan7122)# TSUKUYOMI-MULTI-DEVICE
 
 
 # TSUKUYOMI-MULTI-DEVICE
