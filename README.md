@@ -54,7 +54,7 @@
 ## Deployment Methods
 ---
 
-1. ***Get [`SESSION ID`](https://tsukuyomi-md-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://Orangefri-vtsf.onrender.com/)  by Pair Code Or scanning QR code. `Whatapp>Three dots>Linked Devices`***
 
 2.  ***Get a Mongodb uri from [`Mongodb`] | [`Tutorial`](https://youtu.be).***
 3.  ***`Star ⭐` repository & Click [`FORK`](https://github.com/Orangefri/TSUKUYOMI-MD)***
