@@ -1,6 +1,6 @@
 # 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫    #Itachi(V6)
 <p align="center">
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MD"><img title="Author" src="https://files.catbox.moe/qf4ipv.jpg?style=for-the-badge&logo=github"></a>
 
 ----------
 
@@ -21,11 +21,11 @@
 <br>
 
   <p align="center">
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GlobalTechInfo/SUHAIL-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/"><img title="Size" src="https://img.shields.io/github/repo-size/Tristan7122/TSUKUYOMI-MUILT-DEVICE?style=flat-square&color=green"></a>
-<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICE/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Orangefri/TSUKUYOMI-MD/followers"><img title="Followers" src="https://img.shields.io/github/followers/TSUKUYOMI?color=blue&style=flat-square"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/https://github.com/Orangefri/TSUKUYOMI-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Orangefri/TSUKUYOMI-MD/"><img title="Size" src="https://github.com/Orangefri/TSUKUYOMI-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/Tristan7122/TSUKUYOMI-MUILT-DEVICEhttps://github.com/Orangefri/TSUKUYOMI-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
