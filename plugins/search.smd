@@ -1,31 +1,29 @@
 /**
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                   //
+//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                                      //
 //                                                                                                      // 
 //                                         Ｖ：1．2．8                                                   // 
-//                                                                                                      // 
-//           
-//            ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝    ╚═╝     ╚═╝╚═════╝                        //
+//                                        𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫                                                 //
 //                                                                                                      //
 //                                                                                                      //
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/@SuhailTechInfo
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰-𝑴𝑫
+   * @author : HOEKAGE Tech Info
+   * @youtube : https://www.youtube.com/@HOEKAGETechInfo
+   * @description : 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫 ,A Multi-functional whatsapp user bot.
    * @version 1.2.8
 *
 * 
-   * Created By Suhail Tech Info.
-   * © 2024 Suhail-Md.
+   * Created By HOEKAGE Tech Info.
+   * © 2024 𝑻𝑺𝑼𝑲𝑼𝒀𝑶𝑴𝑰 𝑴𝑫.
 */
 
 
 
-let Suhail_Md = "Suhail MD Whatsapp bot md"
+let Tsukuyomi_Md = "Tsukuyomi MD Whatsapp bot md"
 
 
 const moment = require('moment-timezone')
@@ -68,7 +66,7 @@ async(message, match) => {
  try{
 
    message.react("🔍")
-         if (!match) return message.reply(`Give me a user name like ${prefix}github SuhailTechInfo`)
+         if (!match) return message.reply(`Give me a user name like ${prefix}github HoekageTechInfo`)
 
          const { data } = await axios(`https://api.github.com/users/${match}`)
    if(!data) return await message.send(`*_Didn't get any results, Provide valid user name!_*`)
@@ -302,7 +300,7 @@ smd({
         },
         async(message, text) => {
           try{
-            if (!text) return message.reply(`*_Uhh please, give me a query_*\n*_Example : ${prefix}google Suhail Md._*`);
+            if (!text) return message.reply(`*_Uhh please, give me a query_*\n*_Example : ${prefix}google Tsukuyomi Md._*`);
             let google = require('google-it');
             google({ 'query': text}).then(res => {
                 let msg= `Google Search From : ${text} \n\n`;
@@ -332,7 +330,7 @@ smd({
         async(message, match) => {
 try{
   let text = match ? match : message.reply_text;
-   if (!text) return message.reply(`Provide me a query!\n*Ex : .image luffy |10*`)
+   if (!text) return message.reply(`Provide me a query!\n*Ex : .image Itachi |10*`)
    
    let name1 = text.split("|")[0] || text
    let name2 = text.split("|")[1] || `5`
@@ -449,13 +447,13 @@ smd({
         alias: ["oldwa","bio","onwa"],
         category: "search",
         desc: "Searches in given rage about given number.",
-        use: '9112345678xx',
+        use: '277102002xx',
         filename: __filename,
     },
     async(message, text) => {
- if(!text) return await message.reply('Give Me Number without + sign. Example: .iswa 9231844741xx')
+ if(!text) return await message.reply('Give Me Number without + sign. Example: .iswa 277102002xx')
         var inputnumber = text.split(" ")[0]
-        if (!inputnumber.includes('x')) return message.reply(`*You did not add x*\nExample: iswa 9231844741xx  \n ${Config.caption}`)
+        if (!inputnumber.includes('x')) return message.reply(`*You did not add x*\nExample: iswa 277102002xx  \n ${Config.caption}`)
         message.reply(`*Searching for WhatsApp account in given range...* \n ${Config.caption}`)
 
         function countInstances(string, word) {  return string.split(word).length - 1; }
@@ -502,13 +500,13 @@ smd({
         pattern: "nowa",
         category: "search",
         desc: "Searches in given rage about given number.",
-        use: '9112345678xx',
+        use: '277102002xx',
         filename: __filename,
     },
     async(message, text) => {
-if(!text) return await message.reply('Give Me Number without + sign. Example: .nowa 9231844741xx')
+if(!text) return await message.reply('Give Me Number without + sign. Example: .nowa 277102002xx')
 const inputNumber = text.split(" ")[0]
-if (!inputNumber.includes('x')) return message.reply(`*You did not add x in number.*\nExample: ${prefix}nowa 9231844741xx  \n ${Config.caption}`)
+if (!inputNumber.includes('x')) return message.reply(`*You did not add x in number.*\nExample: ${prefix}nowa 277102002xx  \n ${Config.caption}`)
 message.reply(`*Searching for WhatsApp account in the given range...*\n${Config.caption}`);
 function countInstances(string, word) { return string.split(word).length - 1; }
 const number0 = inputNumber.split('x')[0];
